@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/UsingZoomEvent/Form1.cs) (VB: [Form1.vb](./VB/UsingZoomEvent/Form1.vb))
+<!-- default file list end -->
 # How to customize the secondary axis range when the chart zooming is performed 
 
 
